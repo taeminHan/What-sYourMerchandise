@@ -28,6 +28,8 @@
 
 
 
+
+
 많은 영감을 준 tvn드라마 스타트업이 도움이 되었습니다. ~수지 좋아요~
 
 
@@ -37,3 +39,7 @@ opencv + Tensorflow를 활용한 이미지(손글씨) 예제  https://webnautes.
 데이터셋 만들기 https://gusrb.tistory.com/12
 
 케라스 활용 이미지 데이터셋 학습 https://lhh3520.tistory.com/376
+
+## image
+
+https://m.hankookilbo.com/News/Read/201906121483734269
