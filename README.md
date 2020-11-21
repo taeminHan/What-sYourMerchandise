@@ -25,3 +25,10 @@
 인식을 하여 음성으로 상품의 정보를 출력한다.
 
 초도작업은 웹캠을 활용하지만 추후 개발을 통해 어플리케이션으로 도출해낸다.
+
+
+
+## 참고자료
+opencv + Tensorflow를 활용한 이미지(손글씨) 예제  https://webnautes.tistory.com/1384
+데이터셋 만들기 https://gusrb.tistory.com/12
+케라스 활용 이미지 데이터셋 학습 https://lhh3520.tistory.com/376
