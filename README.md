@@ -33,6 +33,9 @@
 많은 영감을 준 tvn드라마 스타트업이 도움이 되었습니다. ~수지 좋아요~
 
 
+도커 공부가 필요함
+
+
 ## 참고자료
 opencv + Tensorflow를 활용한 이미지(손글씨) 예제  https://webnautes.tistory.com/1384
 
