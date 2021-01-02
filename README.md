@@ -69,8 +69,11 @@
 Training Data Set
 
 코카콜라: 6장
+
 칠성사이다: 9장
+
 스프라이트: 8장
+epochs = 50
 
 ![다운로드](https://user-images.githubusercontent.com/5088870/103459731-922dd180-4d54-11eb-837a-51e379168a00.png)
 
