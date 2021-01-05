@@ -99,6 +99,8 @@ epochs = 50
 
 확실히 데이터셋을 늘리니 인식률이 좋다.
 
+개선사항: 인식이 제대로 되는지 확인을 위하여 opencv의 rectangle을 이용하여 크롭핑을 해야 할 것 같다.
+
 ## 참고자료
 opencv + Tensorflow를 활용한 이미지(손글씨) 예제  https://webnautes.tistory.com/1384
 
