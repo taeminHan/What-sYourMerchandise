@@ -91,9 +91,13 @@ Training Data Set
 스프라이트: 25장
 
 epochs = 50
+
+
 ![asd](https://user-images.githubusercontent.com/5088870/103679851-beea1f00-4fc8-11eb-8f56-808034b97931.png)
 
-확실히 데이터셋을 늘리니 인식률이 
+
+
+확실히 데이터셋을 늘리니 인식률이 좋다.
 
 ## 참고자료
 opencv + Tensorflow를 활용한 이미지(손글씨) 예제  https://webnautes.tistory.com/1384
