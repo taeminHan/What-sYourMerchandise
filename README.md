@@ -122,9 +122,9 @@ epochs = 50
 ---
 2021-01-09
 
-저번에 작성했던 opencv의 rectangle crop 기능은 YOLO_NET을 이용한 물체인싱을 이용하여
+저번에 작성했던 opencv의 rectangle crop 기능은 YOLO_NET을 이용한 물체인식을 이용하여
 
-라벨링을 진행하거나, cv2.dnn.readNet에서 기존의 저장된 모델을 가중치만 저장된 2진 파일을 이용하여
+라벨링을 진행하거나, cv2.dnn.readNet에서 기존의 저장된 모델을 가중치만 저장된 이진 파일을 이용하여
 
 할 수도 있다. 두개를 비교해 보고나서 진행 하겠지만 아무래도 후자인 cv2.dnn.readNet으로 진행하는 것이 좋은것 같다.
 
