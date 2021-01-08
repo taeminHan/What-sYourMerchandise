@@ -130,7 +130,7 @@ epochs = 50
 
 이것에 대한 자료조사와 공부 한 내용은 TIL에 작성
 
-링크
+링크: [TIL 20210109](https://github.com/taeminHan/TIL/blob/master/20210109.md)
 
 
 ## 참고자료
