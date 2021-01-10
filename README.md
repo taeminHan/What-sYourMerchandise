@@ -132,6 +132,12 @@ epochs = 50
 
 링크: [TIL 20210109](https://github.com/taeminHan/TIL/blob/master/20210109.md)
 
+---
+2021-01-09
+
+cv2.dnn.readNet를 사용해본 결과 필요한 소스는 pb, pbtxt이다. pb, pbtxt 파일 저장을 하는 법을 공부 해야한다.
+
+추가적으로 cv2.dnn.readNetfromTensorflow()가 존재 했다 공식 문서 상으로는 비슷한 결과물을 출력하는 것 같다.
 
 ## 참고자료
 opencv + Tensorflow를 활용한 이미지(손글씨) 예제  https://webnautes.tistory.com/1384
