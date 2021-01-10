@@ -133,7 +133,7 @@ epochs = 50
 링크: [TIL 20210109](https://github.com/taeminHan/TIL/blob/master/20210109.md)
 
 ---
-2021-01-09
+2021-01-10
 
 cv2.dnn.readNet를 사용해본 결과 필요한 소스는 pb, pbtxt이다. pb, pbtxt 파일 저장을 하는 법을 공부 해야한다.
 
