@@ -8,8 +8,6 @@ from keras.callbacks import EarlyStopping, ModelCheckpoint
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
-# TODO: 2021. 1. 2. 일단은 클론코딩으로 시작. 데이터 수가 너무 부족하다 더 수집해야 한다.
-
 caltech_dir = 'C:/Users/taemin/PycharmProjects/What-sYourMerchandise/DataSet/Train'
 categories = ["Cocacola", "sevenstar", "sprite"]
 nb_classes = len(categories)
