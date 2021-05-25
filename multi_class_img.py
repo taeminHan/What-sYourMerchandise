@@ -43,9 +43,6 @@ for idx, cat in enumerate(categories):
 
 X = np.array(X)
 y = np.array(y)
-# 1 0 0 0 이면 airplanes
-# 0 1 0 0 이면 buddha 이런식
-
 
 X_train, X_test, y_train, y_test = train_test_split(X, y)
 xy = (X_train, X_test, y_train, y_test)
